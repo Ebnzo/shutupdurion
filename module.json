@@ -1,0 +1,12 @@
+{
+    "disableAutoUpdate" : false,
+    "name" : "Shut up Durion",
+    "author" : "Ebnzo",
+    "options" : {
+        "guiName" : "Shut up Durion",
+        "niceName" : "Shut up Durion"
+    },
+    "servers" : [
+        "https://raw.githubusercontent.com/Ebnzo/shutupdurion/main/"
+    ]
+}
